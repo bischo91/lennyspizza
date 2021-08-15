@@ -28,23 +28,6 @@
   </div><!-- class content -->
 </div><!-- class container -->
 
-<script src="apps.js"></script>
-<script>
-var modal = document.getElementById('modal-msg');
-var img = document.getElementById('img-msg');
-var modalImg = document.getElementById('modal-background');
-
-img.onload = function loadfunction(){
-  modal.style.display = "block";
-  // modalImg.src = this.src;
-  modalImg.src = this.src;
-}
-
-
-var span = document.getElementById('close-id');
-span.onclick = function(){
-  modal.style.display = "none";
-}
 </script>
 </body>
 <footer><?php include 'footer.php'?></footer>
