@@ -1,6 +1,6 @@
 <?php
 // Nav slide
-'<script type="text/JavaScript">
+echo '<script type="text/JavaScript">
 
 const navSlide = () => {
   const burger = document.querySelector('.burger');
