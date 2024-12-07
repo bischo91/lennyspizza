@@ -27,8 +27,7 @@
     </div><!-- class right-align content-right -->
   </div><!-- class content -->
 </div><!-- class container -->
-
-</script>
+<script src="apps.js"></script>
 </body>
 <footer><?php include 'footer.php'?></footer>
 </html>
